@@ -9,7 +9,7 @@ As using Google Chrome, I choose Chrome WebDriver.You can change other webdriver
 
 Click [Mirror Link](https://registry.npmmirror.com/binary.html?path=chromedriver/) then select and download the driver matching your browser version.
 
-![](https://pic.imgdb.cn/item/63cbc76dbe43e0d30ee07a49.png)
+![1.png](https://pic.imgdb.cn/item/63cbc76dbe43e0d30ee07a49.png)
 
 Unzip the .zip file and copy the .exe file to the same path of your script.
 
